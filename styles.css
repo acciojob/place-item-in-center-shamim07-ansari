@@ -1,10 +1,19 @@
-
 /* Your CSS Code here. */
-.item-1 {
-	background-color: red;
-	height: 200px;
-	width: 200px;
+
+body {
+	background-color: lightgrey;
+}
+
+.holder {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+.item-1 {
+	background-color: pink;
+	height: 200px;
+	width: 200px;
+}
+p {
+	text-align: center;
 }
