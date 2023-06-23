@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.item-1 {
+	background-color: red;
+	height: 200px;
+	width: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
